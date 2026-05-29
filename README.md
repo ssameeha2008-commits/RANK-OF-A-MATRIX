@@ -13,7 +13,7 @@ To write a python program to find the rank of a matrix
 ```
 #Program to find the rank of a matrix.
 #Developed by: SAMEEHA S
-#RegisterNumber:212225230180
+#RegisterNumber:212225230243
 import os 
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
